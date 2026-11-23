@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "framer-motion": "^14.13.0",
+    "framer-motion": "^14.14.0",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
     "zustand": "^5.1.0"
@@ -17,7 +17,7 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.5",
     "@vitejs/plugin-react": "^6.3.0",
-    "autoprefixer": "^10.6.2",
+    "autoprefixer": "^10.7.0",
     "postcss": "^8.5.33",
     "tailwindcss": "^4.1.18",
     "vite": "^8.3.8"
